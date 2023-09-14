@@ -1,4 +1,5 @@
 /node_modules/
+/tests/User.js
 
 
 .vscode/*
