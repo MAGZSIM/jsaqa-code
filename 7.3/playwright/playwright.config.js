@@ -6,8 +6,8 @@ module.exports = defineConfig({
 
   use: {
     launchOptions: {
-        headless: false,
-        slowMo: 1000
+      headless: false,
+      slowMo: 1000
     }
   },
 });
